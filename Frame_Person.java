@@ -9,8 +9,6 @@ public class Frame_Person {
 		this.height = HEIGHT;
 
 	}
-	public void eat (String food_name) {
-		System.out.println(name + " is eating." + food_name);
-	}
+
 
 }
