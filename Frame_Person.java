@@ -12,7 +12,5 @@ public class Frame_Person {
 	public void eat (String food_name) {
 		System.out.println(name + " is eating." + food_name);
 	}
-	public int getAGE(){
-		return age;
-	}
+
 }
